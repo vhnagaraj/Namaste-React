@@ -1,0 +1,14 @@
+--------CREATING REACT MANUALLY--------
+
+=> Create HTML file first.
+=> Go to chrome and search for cdn react. 
+=> Copy first 2 links and paste it at the bottom of the bod tag.
+=> Now you can use the react you can test it by writing React and ReactDom in the developer console.
+=> And now we have to craete element for that we have to crete Root .
+=> Root indicates the Dom.
+=> Inside new scriot tag first we have to craete element as shown in the index.html.
+=> instead of writjng inside script tag w can also use js file to write.
+=> Next we have to create Root as shown in the index.html. 
+=> And last we have to use them by writing Root.render(your element) as shown in the index.html.
+=> Thats it run the code and your element will be displayed in your browser.
+=> Congrats You have Created your first React code.
